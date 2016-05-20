@@ -1,0 +1,17 @@
+{
+  "name": "name",
+  "version": "0.0.1",
+  "authors": "Josiah Katz <josiahkatz@gmail.com>",
+  "description": "description",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ],
+  "devDependencies": {
+    "bourbon": "~4.2.6",
+    "trianglify": "0.4.0"
+  }
+}

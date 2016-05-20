@@ -1,0 +1,19 @@
+{
+  "name": "skeleton",
+  "version": "0.0.1",
+  "author": "Josiah Katz <josiahkatz@gmail.com>",
+  "description": "description",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/josiahkatz/skeleton"
+  },
+  "devDependencies": {
+    "bower": "~1.7.7",
+    "gulp": "~3.9.1",
+    "gulp-sass": "~2.2.0"
+  },
+  "dependencies": {
+    "two.js": "^0.5.0"
+  }
+}
